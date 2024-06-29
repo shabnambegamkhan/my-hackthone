@@ -1,0 +1,28 @@
+
+    body{
+
+       background-image:url("front1.jpg");
+       background-attachment: fixed;
+       background-position: center;
+       background-size: cover ;
+    }
+h1{
+    background: #72de4a;
+    width: 500px; height: 150px;
+    font-size: 70px;
+    font-style: oblique;
+    border-radius:90px;
+
+}
+div{
+    button{
+        background-color: rgb(35, 220, 35);
+        font-size: 40px;
+        font-style: normal;
+
+    }
+}
+button :hover{
+    color:rgb(255, 0, 0);
+}
+

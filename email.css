@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(2, 2, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.wrapper{
+    width: 600px;
+    background-color: rgb(89, 224, 22);
+    cursor: all-scroll;
+    box-shadow: 0 0 60px rgb(15, 11, 237)
+}
+
+*{
+margin: 10px;
+padding: 10px;
+box-sizing: border-box;
+font-family: "poppins",sans-serif;
+}
+
+
+input-box{
+          background-position: center;
+          right: 20px;
+          top: 50px;
+          transform-style: translatey(-50px);
+          font-size: 10px;
+}
+ login-link{
+    color: #000;
+}

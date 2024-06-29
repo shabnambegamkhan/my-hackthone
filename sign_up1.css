@@ -1,0 +1,53 @@
+body
+{
+    color: #d1cccc;
+    font-size: xx-large;
+}
+
+h1{
+    background-color: rgb(0, 1, 0);
+    width: 500px; height: 50px;
+    color: aliceblue;
+}
+div{
+    button{
+    background:linear-gradient(45deg,aqua,blue);
+    font: size 2pxrem;
+    font-style: italic;
+    margin:5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+} 
+
+body{
+    background-image:url("front2.webp") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
+h4{
+    color:rgb(238, 232, 238);
+    font-size: 30px;
+}
+
+div{
+    button{
+        background-color: rgb(7, 232, 26);
+        font-size: 20px;
+        border-radius: 30px;
+        border-color: blue;
+        
+
+    }
+}
+button :hover{
+    color: rgb(247, 20, 80);
+    
+}
+h4 button :hover{
+    color: black;
+    box-shadow: grey;
+}
